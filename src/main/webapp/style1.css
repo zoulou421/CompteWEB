@@ -1,0 +1,23 @@
+@charset "UTF-8";
+
+div{
+	margin:10px;
+	padding:10px;
+	border: 1px dotted gray;
+}
+
+.table1 th{
+	backgound: pink;
+	padding: 10px;
+	border: 1px dotted gray;
+}
+
+.table1 td{
+	backgound: white;
+	padding: 10px;
+	border: 1px dotted gray;
+}
+
+
+
+
